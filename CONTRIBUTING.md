@@ -2,14 +2,6 @@
 When contributing to this project, first discuss the ideas you want to make changes to, how those will make the project better, and a proposed milestone. Once this gets confirmed by all the members, the changes can then be made. 
 
 ## Code of Conduct
-### Our Pledge
+Read the CODE-OF-CONDUCT.md as this project and everyone participating in this project are governed by the conduct. 
 
-### Our Standards
 
-### Our Responsibilities
-
-### Scope
-
-### Enforcement
-
-### Attribution
